@@ -1,0 +1,2 @@
+# cosmos
+Cosmos is an AI that helps people feel safer at home using Pose Estimation. Using Tensorflow modules it checks for falling people and asks if they need help. It is still under development but more features like emergency messages are planned already. The goal of cosmos is to implement it into a retirement home to help with the privacy of the elderly by using AI instead of a nurse watching over someone 24/7
