@@ -1,70 +1,28 @@
-# Getting Started with Create React App
+# Getting started with Cosmos
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### About Cosmos
+Cosmos is a multifunctional AI made to make people feel safer at home alone. Using the newest technology Cosmos can detect things and help people in cases of emergencies. This way we can keep people safe even if nobody's around. Cosmos was made with the purpose of helping people focus on other things than safety and save lives if it can. It will do anything it can to achieve this goal and help, not only elderly people, but also younger people be safe while home alone.
 
-## Available Scripts
+Cosmos was created by me, I'm Siyabend Oezdemir. You can check out my profile to find out more about me or you can message me on LinkedIn. My intention behind Cosmos was to play around with AI until one of my co-workers told me that I could make something useful out of this. So I decided that this would be the best use case since I know a lot of people that aren't able to visit their grandparents/parents very often and since retirement homes often have problems with privacy for the elderly I thought that this could be a solution to this problem.
 
-In the project directory, you can run:
+### How does it work?
+Cosmos uses a variety of libraries to ensure that it's only using the best data on the market. Accuracy and reliability is the key to making Cosmos more helpful so it needs good data to be able to process what is happening at the moment. 
 
-### `npm start`
+To achieve this Cosmos uses data from Google and other big companies that have trained their own models like MoveNet by Google for Pose Estimation. Cosmos also uses popular libraries for it's speech recognition and for it's own voice to ensure that no command is misunderstood. 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## How to run Cosmos
 
-### `npm test`
+first clone the git repository:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+`git clone https://github.com/siyabendoezdemir/cosmos.git`
 
-### `npm run build`
+Then install all NPM packages
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+`npm install`
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+And start the development server
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+`npm start`
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+That's it! Have fun working on Cosmos and contributing to saving more people's lives. 
